@@ -30,21 +30,21 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://showpocketbutton.github.io">
+  <a href="https://showclosetabbutton.github.io">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Show Pocket Button</h3>
+  <h3 align="center">Show Close Tab Button</h3>
 
   <p align="center">
-Show a pocket button and a close tab button on each active tab to save the web page.
+Show a close button on each active tab to close it
 <!--
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>FIREFOX</strong></a>
 -->
     <br />
     <br />
-    <a href="https://addons.mozilla.org/en-US/firefox/addon/show-pocket-button/"><strong>FIREFOX</strong></a>
+    <a href="https://addons.mozilla.org/en-US/firefox/addon/show-close-tab-button/"><strong>FIREFOX</strong></a>
 <!--
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     &middot;
@@ -90,9 +90,7 @@ Show a pocket button and a close tab button on each active tab to save the web p
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Show Pocket Button is an open-source MIT-licensed browser extension designed to shows a Save to Pocket button and a close tab button on every active tab on a web page. After installing it, you no longer have to search for the pocket button in layers of menus. You can save web pages in your pocket by just clicking a button.
-
-Show Pocket Button doesn't show ads and doesn't send user's data. 
+Show Close Tab Button is an open-source MIT-licensed browser extension designed to show a close button on each active tab to close it. You can close the current tab with a simple click of a button.It doesn't show ads and doesn't send user's data. 
 
 <img src="images/screenshot.png" alt="Logo">
 <p>The developer of this add-on kindly invites you to support its ongoing development by considering a small contribution.<a href="https://paypal.me/zhihaushiu">♥ Contribute</a>)</p>
